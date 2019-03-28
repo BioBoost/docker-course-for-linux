@@ -21,3 +21,11 @@
 ### Building Images
 
 * [Building Images](05_building_images/readme.md)
+
+### Volumes
+
+* [Volumes](06_volumes/readme.md)
+
+### Docker Compose
+
+* [Docker Compose](07_docker_compose/readme.md)

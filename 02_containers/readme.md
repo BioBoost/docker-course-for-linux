@@ -1,4 +1,4 @@
-# Containers
+# Chapter 02 - Containers
 
 A container is a running instance of an image. How images are built, is described using Dockerfiles. These files contain the steps needed to create the image. The images mainly contain the files that are needed to run the container. Additional information is provided such as what command to execute when starting the container.
 

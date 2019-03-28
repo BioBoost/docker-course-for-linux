@@ -13,3 +13,7 @@
 ### Installing Docker
 
 * [Installing Docker](03_installing_docker/readme.md)
+
+### Running Containers
+
+* [Running Containers](04_running_containers/readme.md)

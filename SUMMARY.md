@@ -9,3 +9,7 @@
 ### Containers
 
 * [Containers](02_containers/readme.md)
+
+### Installing Docker
+
+* [Installing Docker](03_installing_docker/readme.md)

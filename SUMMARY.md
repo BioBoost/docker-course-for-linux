@@ -17,3 +17,7 @@
 ### Running Containers
 
 * [Running Containers](04_running_containers/readme.md)
+
+### Building Images
+
+* [Building Images](05_building_images/readme.md)
